@@ -8,3 +8,6 @@ figcaption {font-family: Tahoma; font-size: 110%;}
 #byline p {font-family: Myriad Pro; font-size: 130%;}
 
 p {font-family: Garamond; font-family: 100%;}
+
+a:link {color: violet; text-decoration: none;}
+a:visited {color: violet;}
