@@ -2,7 +2,7 @@ h1 {font-family: Lucida Fax; font-size: 300%;}
 h2 {font-family: Arial; font-size: 180%;}
 
 figure {width: 600px; float: right;}
-img {border: 1px solid black;}
+img {width: 600px; border: 1px solid black;}
 figcaption {font-family: Tahoma; font-size: 110%;}
 
 #byline p {font-family: Myriad Pro; font-size: 130%;}
